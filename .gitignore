@@ -1,0 +1,11 @@
+.DS_Store
+out
+bin
+.idea
+.gradle
+.settings
+*.iws
+*.class
+build
+*~
+highScores.txt
